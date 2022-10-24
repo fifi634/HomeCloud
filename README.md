@@ -1,2 +1,4 @@
 # HomeCloud
-Tuto pour auto-hébergement 
+French tuto for pour self hosting
+
+Project in progress
